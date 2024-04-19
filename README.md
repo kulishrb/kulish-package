@@ -1,2 +1,0 @@
-# kulish-package
-kulish-package
